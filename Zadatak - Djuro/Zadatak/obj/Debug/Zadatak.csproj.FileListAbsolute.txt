@@ -1,0 +1,22 @@
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\obj\Debug\Zadatak.csprojResolveAssemblyReference.cache
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\obj\Debug\Zadatak.frmPrijava.resources
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.Cache
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
+D:\Programiranje\Programs\Learning\C#\Zadatak\Zadatak\obj\Debug\Zadatak.frmProizvodjac.resources
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\bin\Debug\Zadatak.exe.config
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\bin\Debug\Zadatak.exe
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\bin\Debug\Zadatak.pdb
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\obj\Debug\Zadatak.csprojResolveAssemblyReference.cache
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\obj\Debug\Zadatak.frmPrijava.resources
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\obj\Debug\Zadatak.frmProizvodjac.resources
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\obj\Debug\Zadatak.Properties.Resources.resources
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\obj\Debug\Zadatak.csproj.GenerateResource.Cache
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\obj\Debug\Zadatak.exe
+D:\Programiranje\Programs\Learning\C#\Zadatak - Djuro\Zadatak\obj\Debug\Zadatak.pdb
